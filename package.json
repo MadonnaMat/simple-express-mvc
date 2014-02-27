@@ -1,0 +1,28 @@
+{
+  "name": "simple-express-mvc",
+  "version": "0.0.0",
+  "description": "simple-express-mvc ==================",
+  "main": "generator.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "mysql": "~2.0.1",
+    "node-mysql": "~0.3.6",
+    "optimist": "~0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Madonkadonk/simple-express-mvc.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "73564fbe8dd7fe8cfb84192bab0db070819b476d",
+  "bugs": {
+    "url": "https://github.com/Madonkadonk/simple-express-mvc/issues"
+  }
+}
