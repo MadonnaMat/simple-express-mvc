@@ -1,0 +1,24 @@
+{
+	"post" : [
+		{
+			"controller" : "TestController",
+			"calls" : [
+				{
+					"uri" : "test_post",
+					"function" : "test_post"
+				}
+			]
+		}
+	],
+	"get" : [
+		{
+			"controller" : "TestController",
+			"calls" : [
+				{
+					"uri" : "test_get",
+					"function" : "test_get"
+				}
+			]
+		}
+	]
+}
